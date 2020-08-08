@@ -10,4 +10,5 @@ def initialize(email)
 end
 
 def parse 
+  emails.delete','
 end
